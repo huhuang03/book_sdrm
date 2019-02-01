@@ -1,0 +1,6 @@
+cache/
+*.pyc
+.idea/
+__pycache__/
+*.pkl
+*.gz
